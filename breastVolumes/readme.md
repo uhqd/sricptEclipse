@@ -1,4 +1,4 @@
-This scipt is for VARIAN ECLIPSE v15.x or later. 
+This script is for VARIAN ECLIPSE v15.x or later. 
 
 Must be compiled first. 
 Download Microsoft Visual Strudio and add the 2 esapi files (see hereafter) to the reference. 
