@@ -1,17 +1,18 @@
 
-//     CREATE OPTIMIZARION STRUCTURES FOR BREAST OR CHESTWALL (VARIAN ECLIPSE v15.x or later)
-//
-//     Based on https://github.com/VarianAPIs/
-//     Example:   
-//     /webinars & workshops/06 Apr 2018 Webinar/Eclipse Scripting API/Projects/CreateOptStructures/CreateOptStructures.cs
-//     IUCT - ONCOPOLE   - JAN 2020
-//
-//
-// Add to project references the two following files (available on any Eclipse station)
-// C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.API
-// C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.Types
-//
-//
+   CREATE OPTIMIZARION STRUCTURES FOR BREAST OR CHESTWALL (VARIAN ECLIPSE v15.x or later)
+    Based on https://github.com/VarianAPIs/
+
+Example based on:   
+    /webinars & workshops/06 Apr 2018 Webinar/Eclipse Scripting API/Projects/CreateOptStructures/CreateOptStructures.cs
+     IUCT - ONCOPOLE   - JAN 2020
+
+
+
+ Add to project references the two following files (available on any Eclipse station)
+ C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.API
+ C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.Types
+
+
 //     ...           ...           ...           ...                                                                 
 //    (- o)         (. .)         (- o)         (. .)                                                                
 //ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
@@ -43,4 +44,4 @@ ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
  * 
  * Luc SIMON. 2020. 
  * IUCT-Oncopole - Toulouse - France
- * * * * */
+ 
