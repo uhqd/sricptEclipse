@@ -9,13 +9,11 @@ Example based on:
 
 
  Add to project references the two following files (available on any Eclipse station)
+ 
  C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.API
+ 
  C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.Types
 
-
-//     ...           ...           ...           ...                                                                 
-//    (- o)         (. .)         (- o)         (. .)                                                                
-//ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
 
  
  * *  What this script does:
@@ -37,10 +35,7 @@ Example based on:
  / __/(  0 )/ __/(  0 )                         
 (____) \__/(____) \__/                          
      ...           ...           ...           ...                                                                 
-    (- o)         (. .)         (- o)         (. .)                                                                
-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
- * 
- * 
+
  * 
  * Luc SIMON. 2020. 
  * IUCT-Oncopole - Toulouse - France
