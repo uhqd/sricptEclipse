@@ -1,5 +1,4 @@
-//--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-*--*
-//
+
 //     CREATE OPTIMIZARION STRUCTURES FOR BREAST OR CHESTWALL (VARIAN ECLIPSE v15.x or later)
 //
 //     Based on https://github.com/VarianAPIs/
@@ -16,11 +15,7 @@
 //     ...           ...           ...           ...                                                                 
 //    (- o)         (. .)         (- o)         (. .)                                                                
 //ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
-//
-//--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*-*--*
 
-//
-/*
  
  * *  What this script does:
  *  The script allow to create optimiz. structures for breast or chestwall cancer
@@ -30,10 +25,7 @@
  
  
   
-  */
-/*
- * 
- * 
+ 
  
  __    _  _   ___    ____  __  _  _   __   __ _ 
 (  )  / )( \ / __)  / ___)(  )( \/ ) /  \ (  ( \
