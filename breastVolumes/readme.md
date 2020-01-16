@@ -1,4 +1,17 @@
+Must be compiled first. 
+Download Microsoft Visual Strudio and add the 2 esapi files (see hereafter) to the reference. 
+Open the sln file (solution that contain a project that contain the source file (.cs)
+Build the project and get the .dll file
+Copy the .dll on an Eclipse station
+Approve the script (Tools : Approve script) 
+And execute : Tools -> Script ->... 
 
+
+
+
+   
+   
+   
    CREATE OPTIMIZARION STRUCTURES FOR BREAST OR CHESTWALL (VARIAN ECLIPSE v15.x or later)
     Based on https://github.com/VarianAPIs/
 
