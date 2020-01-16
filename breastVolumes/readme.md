@@ -1,3 +1,5 @@
+This scipt is for VARIAN ECLIPSE v15.x or later. 
+
 Must be compiled first. 
 Download Microsoft Visual Strudio and add the 2 esapi files (see hereafter) to the reference. 
 Open the sln file (solution that contain a project that contain the source file (.cs)
