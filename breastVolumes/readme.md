@@ -29,13 +29,13 @@ Example based on:
 
  Add to project references the two following files (available on any Eclipse station)
  
- * * C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.API
+  * C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.API
  
- * * C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.Types
+  * C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.Types
 
 
  
- * *  What this script does:
+ What this script does:
  *  The script allow to create optimiz. structures for breast or chestwall cancer
  *  1. Check if the physician's structures exist. If no there is either a warning message, either exit.
  *  2. Creates optimization structure. All PTV are converted to high resolution
