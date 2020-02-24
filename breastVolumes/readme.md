@@ -2,9 +2,13 @@ This script is for VARIAN ECLIPSE v15.x or later.
 
 Must be compiled first. 
 Download Microsoft Visual Strudio and add the 2 esapi files (see hereafter) to the list of references. 
+
 Open the sln file (solution that contain a project that contain the source file (.cs)
+
 Build the project and get the .dll file
+
 Copy the .dll on an Eclipse station
+
 Approve the script (Tools : Approve script) 
 And execute : Tools -> Script ->... 
 
@@ -25,9 +29,9 @@ Example based on:
 
  Add to project references the two following files (available on any Eclipse station)
  
- C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.API
+ * * C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.API
  
- C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.Types
+ * * C:\Program Files(x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.Types
 
 
  
