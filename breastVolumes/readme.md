@@ -45,7 +45,7 @@ Example based on:
   
  
 
- * 
- * Luc SIMON. 2020. 
+ 
+ Luc SIMON. 2020. 
  * IUCT-Oncopole - Toulouse - France
  
