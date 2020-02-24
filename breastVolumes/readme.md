@@ -1,7 +1,7 @@
 This script is for VARIAN ECLIPSE v15.x or later. 
 
 Must be compiled first. 
-Download Microsoft Visual Strudio and add the 2 esapi files (see hereafter) to the reference. 
+Download Microsoft Visual Strudio and add the 2 esapi files (see hereafter) to the list of references. 
 Open the sln file (solution that contain a project that contain the source file (.cs)
 Build the project and get the .dll file
 Copy the .dll on an Eclipse station
